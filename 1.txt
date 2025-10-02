@@ -1,0 +1,61 @@
+[2025-10-02 01:49:57] [INFO] MediaCrawler GUI 已启动
+[2025-10-02 01:49:57] [INFO] 请选择相应功能开始使用
+[2025-10-02 01:50:10] [INFO] 开始爬取 - 平台: dy, 类型: search
+[2025-10-02 01:50:10] [INFO] 配置参数 - 抓取数量: 20, 评论数量: 20, 抓取评论: True, 二级评论: False
+[2025-10-02 01:50:14] [CRAWLER] 2025-10-02 01:50:14 MediaCrawler INFO (core.py:67) - [DouYinCrawler] 使用标准模式启动浏览器
+[2025-10-02 01:50:17] [CRAWLER] 2025-10-02 01:50:17 MediaCrawler INFO (core.py:106) - [DouYinCrawler.search] Begin search douyin keywords
+[2025-10-02 01:50:17] [CRAWLER] 2025-10-02 01:50:17 MediaCrawler INFO (core.py:114) - [DouYinCrawler.search] Current keyword: 黑丝
+[2025-10-02 01:50:17] [CRAWLER] 2025-10-02 01:50:17 MediaCrawler INFO (core.py:120) - [DouYinCrawler.search] Skip 0
+[2025-10-02 01:50:17] [CRAWLER] 2025-10-02 01:50:17 MediaCrawler INFO (core.py:124) - [DouYinCrawler.search] search douyin keyword: 黑丝, page: 1
+[2025-10-02 01:50:18] [CRAWLER] 2025-10-02 01:50:18 httpx INFO (_client.py:1740) - HTTP Request: GET https://www.douyin.com/aweme/v1/web/general/search/single/?search_channel=aweme_general&enable_history=1&keyword=%E9%BB%91%E4%B8%9D&search_source=tab_search&query_correct_type=1&is_filter_search=0&from_group_id=7378810571505847586&offset=0&count=15&need_filter_settings=1&list_type=multi&search_id=&device_platform=webapp&aid=6383&channel=channel_pc_web&version_code=190600&version_name=19.6.0&update_version_code=170400&pc_client_type=1&cookie_enabled=true&browser_language=zh-CN&browser_platform=MacIntel&browser_name=Chrome&browser_version=125.0.0.0&browser_online=true&engine_name=Blink&os_name=Mac+OS&os_version=10.15.7&cpu_core_num=8&device_memory=8&engine_version=109.0&platform=PC&screen_width=2560&screen_height=1440&effective_type=4g&round_trip_time=50&webid=0812115801241418410&msToken=9vP3hcJZ39kNSae9Du5NNxcoCSoPN8TRrlyhkU6pO7K5Of1BMRW9AOg9ePF06RPPUFPvJ8jBB6xHF-XsX5s9-Q9AXnP2xSnGL2eb7X-bpDqa4M1YwN_mf9z6sV-bBdyTNlUGuIoNBYTHcZ6xTV6H9Amf63u5gjIpOARcsxwI0N61CRkB7LYe&a_bogus=Y68wB5wDDk2pkfSv5VVLfY3q6IH3YDKI0trEMD2fVxfrNy39HMOQ9exo0aGvvJWji4%2FsIeYjy4hbT3ohrQ2y8qwf9W0L%2F25gsDSkKl12so0j53inCLf%2FE0iE5hsAtFH8svr4iKi8owICSYyhldAJ5kIlO62-zo0%2F9IY%3D "HTTP/1.1 200 OK"
+[2025-10-02 01:50:18] [CRAWLER] 2025-10-02 01:50:18 MediaCrawler INFO (__init__.py:174) - [store.douyin.update_douyin_aweme] douyin aweme id:7437755060974603530, title:红温了…早八点太急忘记穿裤了 #黑透肤光腿神器这个透肤感真的绝了！！
+[2025-10-02 01:50:19] [CRAWLER] 就像穿了夏天的薄丝袜！太清透了
+[2025-10-02 01:50:19] [CRAWLER] 秋冬辣妹穿搭必备啦\U0001f44d
+[2025-10-02 01:50:19] [CRAWLER] 还是双层纽扣设计，不小心勾破也不心疼！更换一下外层又是一条新的加绒黑丝
+[2025-10-02 01:50:19] [CRAWLER] \u2705厂家直销，只要40几还有运费险，放心入手！
+[2025-10-02 01:50:19] [CRAWLER] #显瘦遮肉 #女大学生 #ootd穿搭 #光腿神器
+[2025-10-02 01:50:19] [CRAWLER] 2025-10-02 01:50:18 MediaCrawler INFO (core.py:346) - [DouYinCrawler.get_aweme_media] Crawling image mode is not enabled
+[2025-10-02 01:50:19] [CRAWLER] 2025-10-02 01:50:18 MediaCrawler INFO (__init__.py:174) - [store.douyin.update_douyin_aweme] douyin aweme id:7175069475945975098, title:八女一男、山路崎岖58牛蛙腿，加绒黑丝极限测评，它！来！了！  #黑丝 #冬天 #穿搭 #测评 #辣妹
+[2025-10-02 01:50:19] [CRAWLER] 2025-10-02 01:50:18 MediaCrawler INFO (core.py:346) - [DouYinCrawler.get_aweme_media] Crawling image mode is not enabled
+[2025-10-02 01:50:19] [CRAWLER] 2025-10-02 01:50:18 MediaCrawler INFO (__init__.py:174) - [store.douyin.update_douyin_aweme] douyin aweme id:7368324385838484770, title:#极品身材 #大长腿 #美出高级感 #夏天该有的样子 #黑丝搭配
+[2025-10-02 01:50:19] [CRAWLER] 2025-10-02 01:50:18 MediaCrawler INFO (core.py:346) - [DouYinCrawler.get_aweme_media] Crawling image mode is not enabled
+[2025-10-02 01:50:19] [CRAWLER] 2025-10-02 01:50:18 MediaCrawler INFO (__init__.py:174) - [store.douyin.update_douyin_aweme] douyin aweme id:7413005358089800995, title:#美女合集 #完美身材 #噔噔噔噔舞蹈挑战 #完美身材 #御姐
+[2025-10-02 01:50:19] [CRAWLER] 2025-10-02 01:50:18 MediaCrawler INFO (core.py:346) - [DouYinCrawler.get_aweme_media] Crawling image mode is not enabled
+[2025-10-02 01:50:19] [CRAWLER] 2025-10-02 01:50:18 MediaCrawler INFO (__init__.py:174) - [store.douyin.update_douyin_aweme] douyin aweme id:6907242534821514507, title:今年的第一条黑丝献给了这条视频 @DOU+小助手
+[2025-10-02 01:50:19] [CRAWLER] 2025-10-02 01:50:18 MediaCrawler INFO (core.py:346) - [DouYinCrawler.get_aweme_media] Crawling image mode is not enabled
+[2025-10-02 01:50:19] [CRAWLER] 2025-10-02 01:50:18 MediaCrawler INFO (__init__.py:174) - [store.douyin.update_douyin_aweme] douyin aweme id:7417840094574431507, title:#这谁顶得住啊 #完美身材 #大长腿 #御姐 #黑丝搭配
+[2025-10-02 01:50:19] [CRAWLER] 2025-10-02 01:50:18 MediaCrawler INFO (core.py:346) - [DouYinCrawler.get_aweme_media] Crawling image mode is not enabled
+[2025-10-02 01:50:19] [CRAWLER] 2025-10-02 01:50:18 MediaCrawler INFO (__init__.py:174) - [store.douyin.update_douyin_aweme] douyin aweme id:7226601847270739256, title:黑丝蕾丝渐变丝，哪个才是你最爱#穿搭 #内容过于真实 #这谁顶得住啊 #美女
+[2025-10-02 01:50:19] [CRAWLER] 2025-10-02 01:50:18 MediaCrawler INFO (core.py:346) - [DouYinCrawler.get_aweme_media] Crawling image mode is not enabled
+[2025-10-02 01:50:19] [CRAWLER] 2025-10-02 01:50:18 MediaCrawler INFO (__init__.py:174) - [store.douyin.update_douyin_aweme] douyin aweme id:7550923688422509824, title:黑丝
+[2025-10-02 01:50:20] [CRAWLER] 2025-10-02 01:50:18 MediaCrawler INFO (core.py:346) - [DouYinCrawler.get_aweme_media] Crawling image mode is not enabled
+[2025-10-02 01:50:20] [CRAWLER] 2025-10-02 01:50:18 MediaCrawler INFO (__init__.py:174) - [store.douyin.update_douyin_aweme] douyin aweme id:7199151821473041723, title:黑丝穿搭#黑丝搭配 #大长腿
+[2025-10-02 01:50:20] [CRAWLER] 2025-10-02 01:50:19 MediaCrawler INFO (core.py:346) - [DouYinCrawler.get_aweme_media] Crawling image mode is not enabled
+[2025-10-02 01:50:20] [CRAWLER] 2025-10-02 01:50:19 MediaCrawler INFO (__init__.py:174) - [store.douyin.update_douyin_aweme] douyin aweme id:7430747015643958582, title:#完美身材 #大长腿 #今天穿什么 “欣赏”
+[2025-10-02 01:50:20] [CRAWLER] 2025-10-02 01:50:19 MediaCrawler INFO (core.py:346) - [DouYinCrawler.get_aweme_media] Crawling image mode is not enabled
+[2025-10-02 01:50:20] [CRAWLER] 2025-10-02 01:50:19 MediaCrawler INFO (__init__.py:174) - [store.douyin.update_douyin_aweme] douyin aweme id:7422986714638978319, title:别以为天冷就能阻止我穿高跟鞋了！
+[2025-10-02 01:50:20] [CRAWLER] 2025-10-02 01:50:19 MediaCrawler INFO (core.py:346) - [DouYinCrawler.get_aweme_media] Crawling image mode is not enabled
+[2025-10-02 01:50:20] [CRAWLER] 2025-10-02 01:50:19 MediaCrawler INFO (__init__.py:174) - [store.douyin.update_douyin_aweme] douyin aweme id:7429335483768999204, title:辣妹穿搭 #黑丝搭配 #约会穿搭 #穿出高级感 #高级感 #日常分享
+[2025-10-02 01:50:20] [CRAWLER] 2025-10-02 01:50:19 MediaCrawler INFO (core.py:346) - [DouYinCrawler.get_aweme_media] Crawling image mode is not enabled
+[2025-10-02 01:50:20] [CRAWLER] 2025-10-02 01:50:19 MediaCrawler INFO (__init__.py:174) - [store.douyin.update_douyin_aweme] douyin aweme id:7394534415000538368, title:黑丝诱惑！无法抗拒的魅力旋律！#黑丝搭配 #黑丝美女 #高跟黑色丝袜穿搭
+[2025-10-02 01:50:20] [CRAWLER] 2025-10-02 01:50:19 MediaCrawler INFO (core.py:346) - [DouYinCrawler.get_aweme_media] Crawling image mode is not enabled
+[2025-10-02 01:50:20] [CRAWLER] 2025-10-02 01:50:19 MediaCrawler INFO (__init__.py:174) - [store.douyin.update_douyin_aweme] douyin aweme id:7183270731063528760, title:告诉我 你更喜欢哪一个呢？#美女 #穿搭 #完美身材 #颜值 #黑丝穿搭
+[2025-10-02 01:50:20] [CRAWLER] 2025-10-02 01:50:19 MediaCrawler INFO (core.py:346) - [DouYinCrawler.get_aweme_media] Crawling image mode is not enabled
+[2025-10-02 01:50:20] [CRAWLER] Traceback (most recent call last):
+[2025-10-02 01:50:21] [CRAWLER] File "D:\MediaCrawler-版本迭代\MediaCrawler-V1.2.1\MediaCrawler\main.py", line 86, in <module>
+[2025-10-02 01:50:21] [CRAWLER] asyncio.get_event_loop().run_until_complete(main())
+[2025-10-02 01:50:21] [CRAWLER] File "C:\Users\Administrator\AppData\Roaming\uv\python\cpython-3.11.13-windows-x86_64-none\Lib\asyncio\base_events.py", line 654, in run_until_complete
+[2025-10-02 01:50:21] [CRAWLER] return future.result()
+[2025-10-02 01:50:21] [CRAWLER] ^^^^^^^^^^^^^^^
+[2025-10-02 01:50:21] [CRAWLER] File "D:\MediaCrawler-版本迭代\MediaCrawler-V1.2.1\MediaCrawler\main.py", line 73, in main
+[2025-10-02 01:50:21] [CRAWLER] await crawler.start()
+[2025-10-02 01:50:21] [CRAWLER] File "D:\MediaCrawler-版本迭代\MediaCrawler-V1.2.1\MediaCrawler\media_platform\douyin\core.py", line 95, in start
+[2025-10-02 01:50:21] [CRAWLER] await self.search()
+[2025-10-02 01:50:21] [CRAWLER] File "D:\MediaCrawler-版本迭代\MediaCrawler-V1.2.1\MediaCrawler\media_platform\douyin\core.py", line 152, in search
+[2025-10-02 01:50:21] [CRAWLER] await asyncio.sleep(config.CRAWLER_MAX_SLEEP_SEC)
+[2025-10-02 01:50:21] [CRAWLER] File "C:\Users\Administrator\AppData\Roaming\uv\python\cpython-3.11.13-windows-x86_64-none\Lib\asyncio\tasks.py", line 639, in sleep
+[2025-10-02 01:50:21] [CRAWLER] if delay <= 0:
+[2025-10-02 01:50:21] [CRAWLER] ^^^^^^^^^^
+[2025-10-02 01:50:21] [CRAWLER] TypeError: '<=' not supported between instances of 'str' and 'int'
+[2025-10-02 01:50:21] [ERROR] 爬取失败，退出码: 1
+
